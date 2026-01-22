@@ -44,11 +44,18 @@ X | sky   | free | distantlantern.itch.io/all-sky-free                   | https
 X | sky   | free | distantlantern.itch.io/all-sky-free                   | https://distantlantern.itch.io/allsky-free
 --|-------|------|-------------------------------------------------------|------------------------------------------------------------------------------------------------
 X | model | free | fab.com/polypixdel/survival-props                     | https://www.fab.com/listings/d5d45ca2-d957-447a-8744-ea1f8aabece3
+--|-------|------|-------------------------------------------------------|------------------------------------------------------------------------------------------------
+X | tex   | free | kenney.itch.io/retro-textures                         | https://kenney.nl/assets/retro-textures-1
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ASSET - PAID
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 X | TYPE  | COST | PATH                                                  | LINK
 --|-------|------|-------------------------------------------------------|------------------------------------------------------------------------------------------------
   | sky   | paid | assetstore.unity.com/rpgwhitelock/all-sky             | https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-220-sky-skybox-set-10109
+--|-------|------|-------------------------------------------------------|------------------------------------------------------------------------------------------------
 X | model | paid | fab.com/kasitstudio/parachute                         | https://sketchfab.com/3d-models/parachute-pbr-lowpoly-142ff436cf7541a3bcee558bd452b255
 X | model | paid | fab.com/pijayart/military-bag                         | https://www.fab.com/listings/6a86666c-d5de-44da-b089-02b2d0da7e2a
+X | model | paid | syntystore.com/polygon-prototype-pack                 | https://syntystore.com/products/polygon-prototype-pack
+X | model | paid | xanthius.itch.io/ores                                 | https://xanthius.itch.io/150-ores-and-minerals
+--|-------|------|-------------------------------------------------------|------------------------------------------------------------------------------------------------
+X | font  | paid | somepx.itch.io/bacteria                               | https://somepx.itch.io/pixel-font-bacteria
