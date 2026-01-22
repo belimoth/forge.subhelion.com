@@ -1,0 +1,54 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ASSET - FREE
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+X | TYPE  | COST | PATH                                                  | LINK
+--|-------|------|-------------------------------------------------------|------------------------------------------------------------------------------------------------
+X | audio | free | alessandroroussel.com/ambiances                       | https://www.youtube.com/SonarEffects
+X | audio | free | alessandroroussel.com/bruitages                       | https://www.youtube.com/SonarEffects
+X | audio | free | alessandroroussel.com/musicaux                        | https://www.youtube.com/SonarEffects
+X | audio | free | alessandroroussel.com/pack/2017-action                | https://www.youtube.com/SonarEffects
+X | audio | free | alessandroroussel.com/pack/2014-halloween             | https://www.youtube.com/SonarEffects
+X | audio | free | alessandroroussel.com/pack/2014-musiques              | https://www.youtube.com/SonarEffects
+--|-------|------|-------------------------------------------------------|------------------------------------------------------------------------------------------------
+X | model | free | blendswap.com/andreasgr                               |
+X | model | free | blendswap.com/ashfordm                                |
+X | model | free | blendswap.com/birdiebronze                            |
+X | model | free | blendswap.com/britdawgmasterfunk                      |
+X | model | free | blendswap.com/cbassvt13                               |
+X | model | free | blendswap.com/csrr                                    |
+X | model | free | blendswap.com/dasergent                               |
+X | model | free | blendswap.com/deepgames                               |
+X | model | free | blendswap.com/govneg                                  |
+X | model | free | blendswap.com/hexalore-wip                            |
+X | model | free | blendswap.com/jake12314                               |
+X | model | free | blendswap.com/lodeb84                                 |
+X | model | free | blendswap.com/lonesomeducky                           |
+X | model | free | blendswap.com/mark06gt                                |
+X | model | free | blendswap.com/mikeeusa2                               |
+X | model | free | blendswap.com/panko10                                 |
+X | model | free | blendswap.com/patar                                   |
+X | model | free | blendswap.com/staffabr                                |
+X | model | free | blendswap.com/StüpendøusWillStudiøs                   |
+X | model | free | blendswap.com/waynec2e                                |
+X | model | free | blendswap.com/xpau013                                 |
+X | model | free | blendswap.com/yyy                                     |
+--|-------|------|-------------------------------------------------------|------------------------------------------------------------------------------------------------
+X | model | free | davidoreilly.itch.io/everything-library-1-animals     | https://davidoreilly.itch.io/everything-library-animals
+X | model | free | davidoreilly.itch.io/everything-library-2-buildings   | https://davidoreilly.itch.io/everything-library-buildings
+  | model | free | davidoreilly.itch.io/everything-library-3-consumables | https://davidoreilly.itch.io/everything-library-consumables
+X | model | free | davidoreilly.itch.io/everything-library-4-furnishings | https://davidoreilly.itch.io/everything-library-furnishings
+X | model | free | davidoreilly.itch.io/everything-library-5-geology     | https://davidoreilly.itch.io/everything-library-05-geology
+  | model | free | davidoreilly.itch.io/external-world-characters        | https://davidoreilly.itch.io/external-world-characters
+--|-------|------|-------------------------------------------------------|------------------------------------------------------------------------------------------------
+X | sky   | free | distantlantern.itch.io/all-sky-free                   | https://distantlantern.itch.io/allsky-free-godot-edition
+X | sky   | free | distantlantern.itch.io/all-sky-free                   | https://distantlantern.itch.io/allsky-free
+--|-------|------|-------------------------------------------------------|------------------------------------------------------------------------------------------------
+X | model | free | fab.com/polypixdel/survival-props                     | https://www.fab.com/listings/d5d45ca2-d957-447a-8744-ea1f8aabece3
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ASSET - PAID
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+X | TYPE  | COST | PATH                                                  | LINK
+--|-------|------|-------------------------------------------------------|------------------------------------------------------------------------------------------------
+  | sky   | paid | assetstore.unity.com/rpgwhitelock/all-sky             | https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-220-sky-skybox-set-10109
+X | model | paid | fab.com/kasitstudio/parachute                         | https://sketchfab.com/3d-models/parachute-pbr-lowpoly-142ff436cf7541a3bcee558bd452b255
+X | model | paid | fab.com/pijayart/military-bag                         | https://www.fab.com/listings/6a86666c-d5de-44da-b089-02b2d0da7e2a
